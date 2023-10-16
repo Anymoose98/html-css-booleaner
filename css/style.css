@@ -11,7 +11,9 @@
 }
 
 #logo{
-    height: 50px;
+   background-image: url(../img/logo.svg);
+   background-repeat: no-repeat;
+   background-position: left bottom;
 }
 
 /* Main */
@@ -82,6 +84,7 @@ table{
     color: white;
     font-size: 13px;
     padding-left: 10px;
+    
 }
 
 #foto-footer1{
