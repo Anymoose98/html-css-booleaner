@@ -54,3 +54,24 @@
 .margine-superiore{
     margin-top: 15px;
 }
+
+/* section 3 */
+
+/* tabella */
+table{
+    border-collapse: collapse;
+}
+
+#sfondo-titolo{
+    background-color: rgb(32,169,229);
+    color: white;
+}
+
+.sfondo-tbody{
+    background-color: rgb(177,229,242);
+}
+
+.larghezza-td{
+    width: 24%;
+}
+
