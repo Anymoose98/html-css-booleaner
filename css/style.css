@@ -3,7 +3,7 @@
     margin: 0%;
     box-sizing: border-box;
 }
-
+/* Inzio header */
 #img-sfondo{
     height: 150px;
     background-color: rgb(78, 160, 255);
@@ -12,6 +12,23 @@
 
 #logo{
     height: 50px;
-    background-position: left;
-    
+}
+
+/* Main */
+/* section 1 */
+.titolo{
+    font-size: 65px;
+}
+
+.grigio-scritte{
+    color: grey;
+}
+
+.blu-scritte{
+    font-weight: bold;
+    color: rgb(134, 208, 250);
+}
+
+.scritte-piccole{
+    font-size: 10px;
 }
