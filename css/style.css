@@ -75,3 +75,19 @@ table{
     width: 24%;
 }
 
+/* footer */
+.img-sfondo{
+    height: 250px;
+    width:250px;
+    color: white;
+    font-size: 13px;
+    padding-left: 10px;
+}
+
+#foto-footer1{
+    background-image: url('../img/monitor.jpg');
+}
+
+#foto-footer2{
+    background-image: url('../img/graph.jpg');
+}
