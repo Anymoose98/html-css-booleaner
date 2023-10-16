@@ -32,3 +32,25 @@
 .scritte-piccole{
     font-size: 10px;
 }
+
+/* section 2 */
+
+#contenitore-foto-tim{
+    height: 500px;
+}
+.foto-tim{
+  width: 49%;
+  height: 100%; 
+}
+
+.sfondo-giallo{
+    background-color: yellow;
+}
+
+#lista-non-ordinata{
+    padding: 1%;
+}
+
+.margine-superiore{
+    margin-top: 15px;
+}
